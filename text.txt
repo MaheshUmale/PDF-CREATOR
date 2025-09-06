@@ -1,0 +1,40 @@
+`Acknowledgment`,`https://docs.google.com/document/d/1u2y6tY48bw8nriDUuwWEf9s8g66vyIqBKSKZDOS-n0s/edit?tab=t.0#heading=h.y1l1kh7vu0qi`
+`Foreword`,`https://docs.google.com/document/d/18Q9kfZuCTL37ztrSjLxwf8Elr5UfAiAavmnj0IqSpbU/edit?tab=t.0#heading=h.5wi2c0amdd0f`
+`A Thought Leader's Perspective: Power and Responsibility`,`https://docs.google.com/document/d/1PWhaXD_UNKgJaxYe3JBxRFRt3_B8Wm67CFxtSBQ4LkU/edit?tab=t.0#heading=h.2v348nrvaqww`
+`Introduction`,`https://docs.google.com/document/d/1K5jwqB6jh20uHL0TTWxqWOxFk-dzFxRvHzrRRV79hrg/edit?tab=t.0`
+`What makes an AI system an "agent"?`,`https://docs.google.com/document/d/1Nw6hRa7ItdLr_Tj5hF2q-OH8B_uPKb--RLn8SXZKA94/edit?usp=sharing`
+`Chapter 1: Prompt Chaining`,`https://docs.google.com/document/d/1flxKGrbnF2g8yh3F-oVD5Xx7ZumId56HbFpIiPdkqLI/edit?usp=sharing`
+`Chapter 2: Routing`,`https://docs.google.com/document/d/1ux_n8n3T4bYndOjs1DKW5ccpC802KISdy2IWnlvYbas/edit?tab=t.0`
+`Chapter 3: Parallelization`,`https://docs.google.com/document/d/1XVMp4RcRkoUJTVbrP2foWZX703CUJpWkrhyFU2cfUOA/edit?tab=t.0`
+`Chapter 4: Reflection`,`https://docs.google.com/document/d/1HXXJOQIMWowtLw4WMiSR360caDAlZPtl5dPPgvq9IT4/edit?tab=t.0#heading=h.a7nkedxjnyap`
+`Chapter 5: Tool Use`,`https://docs.google.com/document/d/1bE4iMljhppqGY1p48gQWtZvk6MfRuJRCiba1yRykGNE/edit?usp=sharing`
+`Chapter 5: Tool Use`,`https://drive.google.com/drive/u/0/folders/1Y3U3IrYCiJ3E45Z8okR5eCg7OPnWQtPV`
+`Chapter 6: Planning`,`https://docs.google.com/document/d/18vvNESEwHnVUREzIipuaDNCnNAREGqEfy9MQYC9wb4o/edit?usp=sharing`
+`Chapter 7: Multi-Agent`,`https://docs.google.com/document/d/1RZ5-2fykDQKOBx01pwfKkDe0GCs5ydca7xW9Q4wqS_M/edit?tab=t.0`
+`Chapter 8: Memory Management`,`https://docs.google.com/document/d/1asVTObtzIye0I9ypAztaeeI_sr_Hx2TORE02uUuqH_c/edit?tab=t.0`
+`Chapter 9: Learning and Adaptation`,`https://docs.google.com/document/d/1UHTEDCmSM1nwB-iyMoHuYzVcu_B_4KkJ2ITGGUKqo8s/edit?tab=t.0`
+`Chapter 10: Model Context Protocol (MCP)`,`https://docs.google.com/document/d/1e6XimYczKmhX9zpqEyxLFWPQgGuG0brp7Hic2sFl_qw/edit?usp=sharing`
+`Chapter 11: Goal Setting and Monitoring`,`https://docs.google.com/document/d/10ndlCB39BWjyFRWKpcoKib4vuPD1ojD-x0-ynMaf5uw/edit?tab=t.0`
+`Chapter 12: Exception Handling and Recovery`,`https://docs.google.com/document/d/1C07AuMur6-infwE0viCp4QtAy_wWI-uceFm6MaYHQGk/edit?tab=t.0#heading=h.m2kk4kdjt6ir`
+`Chapter 13: Human-in-the-Loop`,`https://docs.google.com/document/d/1ImOZcw6yeb7a-uRBMNP1VdovYfyip4IdsAcLu9yue-0/edit?usp=sharing`
+`Chapter 14: Knowledge Retrieval (RAG)`,`https://docs.google.com/document/d/1v96Oobio6xDOqbK8ejsXjmOc4Dp2uoLMo5_gfJgi-NE/edit?usp=sharing`
+`Chapter 15: Inter-Agent Communication (A2A`,`https://docs.google.com/document/d/1H6HmUYcy5kugt5gt7Kh2Zzb8C62d5pu36RsgMNDCX24/edit?usp=sharing`
+`Chapter 16: Resource-Aware Optimization`,`https://docs.google.com/document/d/1nAN58l6JjqEJHk43126uh7xgdEblCpcbsNUHXgtBmJQ/edit?usp=sharing`
+`Chapter 17: Reasoning Techniques`,`https://docs.google.com/document/d/1Yt1W_hLaC6ZNgJXfT4W6NrCL4TzNVdKOX50kgpHiIq4/edit?usp=sharing`
+`Chapter 18: Guardrails/Safety Patterns`,`https://docs.google.com/document/d/1Gpc5af_okze1kprRLohP6-81e1KwL6HggjeLvxQyIuk/edit?usp=sharing`
+`Chapter 19: Evaluation and Monitoring`,`https://docs.google.com/document/d/1G3zOZM2ZOd0gUp5dy66FUjKMOcALh9l-JpvPxgGMm8w/edit?usp=sharing`
+`Chapter 20: Prioritization`,`https://docs.google.com/document/d/1qyXxGM2hNqW_qjXuBFxrEUeoYVO79BoW1ogKu1bfdCY/edit?usp=sharing`
+`Chapter 21: Exploration and Discovery`,`https://docs.google.com/document/d/1zeeMVTqjqRIli6G9MMWThhoQhvKqLOjJF2EHHUXLhdk/edit?usp=sharing`
+`Appendix A: Advanced Prompting Techniques`,`https://docs.google.com/document/d/1V7EKEWibOH6IhHD_PtbFZiml492-2191jDQCcTkhtTI/edit?usp=sharing`
+`Appendix B - AI Agentic à.: From GUI to Real world environment`,`https://docs.google.com/document/d/11pma_tCoC7uZ2SFKjcR5KyIq0_ooMGSoadI6f9mxG2I/edit?tab=t.0#heading=h.4bsgiycebw26`
+`Appendix C - Quick overview of Agentic Frameworks`,`https://docs.google.com/document/d/151rGsiEYOkXUcNDRus_N8TxxuvjoyTDViBhzt9z0Mfw/edit?tab=t.0#heading=h.8y2llpsk10ds`
+`Appendix D - Building an Agent with AgentSpace (on-line only)`,`https://docs.google.com/document/d/1bDRJ8mKtLTeWNC-cGD0Cr8pEJQgJHNcjqz5ekloAjaE/edit?tab=t.0`
+`Appendix E - AI Agents on the CLI (online) `,`http://docs.google.com/document/d/1W4znto0a8Ikajw5a4tEyRAaB2nJPJw_iFc4w4qNnjho/edit?tab=t.0#heading=h.6zaq0kvy131m`
+`Appendix F - Under the Hood: An Inside Look at the AgentsÆ Reasoning Engines`,`https://docs.google.com/document/d/14q3fQ-FZmDgiughno_WLSILMWkURvUgR7mlGiFtvwd4/edit?tab=t.0`
+`Appendix G -  Coding agents`,`https://docs.google.com/document/d/1tVyhgwrD4fu_D_pHUrwhNxoguRG3tLc1KObXFxrxE_s/edit?tab=t.0`
+`Conclusion`,`https://docs.google.com/document/d/1NGzpg9VldtStb_7jRkXJYBaHFwPwJ7WN6ZcTr7dNSVA/edit?usp=sharing`
+`Glossary`,`https://docs.google.com/document/d/1_j_OdzeUALluBUO1GkZ48DsHbbDETiM_1G4farVLPnE/edit?usp=sharing`
+`Index of Terms`,`https://docs.google.com/document/d/15MrpoJBrZIi6aEZrBJCeCvVsIoC-EecYG9EWVk3YCKw/edit?tab=t.0`
+`Online`,`https://docs.google.com/document/d/1XxQsHX3FWEP3TisQeWZwFfYw81zDwEHfHdIfjypa_0g/edit?tab=t.0`
+`Contribution`,`https://docs.google.com/document/d/1XxQsHX3FWEP3TisQeWZwFfYw81zDwEHfHdIfjypa_0g/edit?tab=t.0`
+`Frequently Asked Questions: Agentic Design Patterns`,`https://docs.google.com/document/d/1XxQsHX3FWEP3TisQeWZwFfYw81zDwEHfHdIfjypa_0g/edit?tab=t.0`
